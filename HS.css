@@ -1,0 +1,72 @@
+.Pic1 {
+    background-image: url("BBSite1.jpg"); 
+    height: 100%; 
+    width: 100%;
+    background-repeat: no-repeat;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    padding-right: 600px;
+    padding-left: 600px;
+
+}
+.listA {
+    list-style-type: none;
+    
+
+}
+.text1 {
+    background-color:white;
+    height: 50%;
+    width: 50%;
+}
+.text2 {
+    background-color: darkgray;
+    height: 50%;
+    width: 50%;
+}
+.text3 {
+    background-color: seagreen;
+}
+.text4 {
+    background-color: slategrey;
+}
+li {
+  display:inline;
+}
+.div7 {
+    height: 30%;
+}
+.Pic2 {
+    background-image: url("the-actor1.jpg");
+    height: 300;
+    width: 300;
+    background-repeat: no-repeat;
+}
+.Pic3 {
+    background-image: url("the-father1.jpg");
+    height: 300;
+    width: 300;
+    background-repeat: no-repeat;
+}
+.Pic4 {
+    background-image: url("the-nerd1.jpg");
+    height: 300;
+    width: 300;
+    background-repeat: no-repeat;
+}
+.Pic0 {
+    display:flex;
+    justify-content: space-around;
+}
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.div4 {
+    font-size: 30px;
+}
+.ten {
+    font-size: 30px;
+}
